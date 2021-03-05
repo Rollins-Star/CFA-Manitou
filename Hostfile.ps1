@@ -1,5 +1,5 @@
 #For use within Chick Fil A Environment Only
-#
+#Created by Drew Rollins - drollins@securethinking.com
 #Powershell script to change host file to those needed for Manitou
 
 function setHostEntries([hashtable] $entries) {
