@@ -42,7 +42,7 @@ function setHostEntries([hashtable] $entries) {
 }
 
 $entries = @{
-    'la-man-review' = "10.2.10.231"
+    'la-man-review' = "10.2.10.230"
     'la-man-review2' = "10.2.10.231"
 };
 setHostEntries($entries)
