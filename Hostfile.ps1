@@ -44,5 +44,13 @@ function setHostEntries([hashtable] $entries) {
 $entries = @{
     'la-man-review' = "10.2.10.230"
     'la-man-review2' = "10.2.10.231"
+    'MC-MAN-CHKFILA = "10.1.10.237"
+    'MC-MAN-CHKFILA.co.manitoucloud.com' = "10.1.10.237"
+    'CO-MAN-CHKFILA' = "10.1.11.237"
+    'CO-MAN-CHKFILA.co.manitoucloud.com' = "10.1.11.237"
+    'LA-MAN-CHKFILA' = "10.2.10.237"
+    'LA-MAN-CHKFILA.co.manitoucloud.com' = "10.2.10.237"
+    'AW-MAN-CHKFILA' = "127.27.2.237"
+    'AW-MAN-CHKFILA.co.manitoucloud.com' = "127.27.2.237"
 };
 setHostEntries($entries)
